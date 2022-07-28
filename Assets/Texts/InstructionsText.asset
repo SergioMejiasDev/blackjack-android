@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01dcdabfb65ecf546a8f4855b4f0b3f5, type: 3}
+  m_Name: InstructionsText
+  m_EditorClassIdentifier: 
+  english: 'The objective of the game is to add 21 with the cards in your hand, or
+    to get as close as possible without going overboard. Initially you will receive
+    two cards, and you can request as many as you need by clicking on the "Continue"
+    button. When you are satisfied with the cards in your hand, press "Stand Up".
+
+
+    Now
+    the computer''s turn will begin. He will receive cards until he draws a number
+    greater than 21 (you win the game), he draws a number greater than yours and
+    not greater than 21 (you lose the game), or he draws a number equal to yours
+    and decides not to continue playing (you draw) .
+
+
+    If your two starting cards
+    add up to 21, you automatically win the game.
+
+
+    All the cards add their value
+    except J, Q and K (add 10 points) and A (add one point or 11 points, the higher
+    score prevailing as long as it is not higher than 21).'
+  spanish: "El objetivo del juego es sumar 21 con las cartas de tu mano, o acercarse
+    lo m\xE1ximo posible sin llegar a pasarse. Inicialmente recibir\xE1s dos cartas,
+    y podr\xE1s pedir cuantas necesites pulsando en el bot\xF3n \"Continuar\". Cuando
+    est\xE9s conforme con las cartas en tu mano, pulsa \"Plantarse\".\r\n\r\nAhora
+    comenzar\xE1 el turno del ordenador. Recibir\xE1 cartas hasta que saque un n\xFAmero
+    superior a 21 (ganas la partida), saque un n\xFAmero superior al tuyo y no superior
+    a 21 (pierdes la partida), o saque un n\xFAmero igual al tuyo y decida no seguir
+    jugando (empatas la partida).\r\n\r\nSi tus dos cartas iniciales suman 21, ganas
+    autom\xE1ticamente la partida.\r\n\r\nTodas las cartas suman su valor salvo J,
+    Q y K (suman 10 puntos) y A (suma un punto o 11 puntos, prevaleciendo la puntuaci\xF3n
+    superior siempre que no sea superior a 21)."
